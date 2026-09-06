@@ -43,7 +43,7 @@ IAM Best Practices
 5.	Rotate and Manage Access Keys Carefully: Reduce risks by rotating keys frequently.
 
 Setup Guide
-
+ 
 1.	Configure IAM Roles and Policies
 
 •	Step 1: Create an IAM role with specific permissions for your users or applications.
